@@ -1,2 +1,4 @@
-package hello.core.scan.filter;public class ComponentFilterAppConfigTest {
+package hello.core.scan.filter;
+
+public class ComponentFilterAppConfigTest {
 }
